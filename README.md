@@ -1,4 +1,4 @@
-# Bid_information_system
+# bid_information_system
 　【和歌山県　公共工事等入札情報システムです。】
 
 ###（GitHubアカウント「Wakayama Prefecture」について）
